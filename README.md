@@ -7,5 +7,5 @@
 - 27.124.8[.]135 (APK 다운로드)
 - 173.0.54[.]164 (닫힌 서버)
 
-[envkrss.apk](https://github.com/simnple/chinese_fishing_apk/envkrss_apk.md)
-[SmartApp.apk](https://github.com/simnple/chinese_fishing_apk/SmartApp_apk.md)
+[envkrss.apk](https://github.com/simnple/chinese_fishing_apk/blob/main/envkrss_apk.md)
+[SmartApp.apk](https://github.com/simnple/chinese_fishing_apk/blob/main/SmartApp_apk.md)
