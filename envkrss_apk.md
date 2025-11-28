@@ -1,15 +1,15 @@
 # envkrss.apk
+Virustotal: https://www.virustotal.com/gui/file/d6867de8ef1a09406346d3b80ec7ebf74c9926b0c9a0ca67a4de6cd2bae0024f
+
 ---
 ## 공격자 서버 정보
 - 115.91.26[.]70
 - 27.124.8[.]135 (APK 다운로드)
 - 173.0.54[.]164 (닫힌 서버)
 
-## path (115.91.26[.]70)
-- /re_url
-
-## path (27.124.8[.]135)
-- /SmartApp.apk
+## path
+- 115.91.26[.]70/re_url
+- 27.124.8[.]135/SmartApp.apk
 
 ---
 ## 앱 정보
