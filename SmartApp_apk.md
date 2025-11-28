@@ -1,13 +1,15 @@
 # SmartApp.apk
+Virustotal: https://www.virustotal.com/gui/file/5d57ee3630b8ed2bdaf08b2318cdd116804efb7f76691a6c78461eec61a0a9f8
+
 ---
 ## 공격자 서버 정보
 - 115.91.26[.]76
 
 ## path
-- /updateUserNotes
-- /updateUserLong
-- /updateUserMsg
-- /send_msg_error
+- 115.91.26[.]76/updateUserNotes
+- 115.91.26[.]76/updateUserLong
+- 115.91.26[.]76/updateUserMsg
+- 115.91.26[.]76/send_msg_error
 
 ---
 ## 앱 정보
